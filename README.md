@@ -5,8 +5,6 @@
 <h3 align="center">Primer.style</h3>
 
 <p align="center">
-<a href="https://styleguide.github.com/primer">Styleguide</a>
-    ·
     <a href="https://github.com/primer">Primer org</a>
     ·
     <a href="https://spectrum.chat/primer">Community</a>
