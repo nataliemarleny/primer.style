@@ -36,7 +36,7 @@ export default function OpenSource() {
             <Octicon icon={SpectrumIcon} size={20} verticalAlign="top" mr={2} />
             Chat with us in Spectrum
           </LinkDark>
-          <LinkDark fontSize={2} mb={3} display="block" href="https://github.com/primer/primer/issues/new/choose">
+          <LinkDark fontSize={2} mb={3} display="block" href="https://github.com/primer/css/issues/new/choose">
             <Octicon icon={Octoface} size={20} verticalAlign="text-top" mr={2} />
             Share feedback on GitHub
           </LinkDark>
